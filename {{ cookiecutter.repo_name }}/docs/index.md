@@ -1,9 +1,9 @@
-# ML Project {{ project_name}}
+# ML Project {{ cookiecutter.project_name}}
 
-For full documentation visit {{ url }}
+For full documentation visit {{ cookiecutter.url }}
 
 ## Description
 
-{{ description }}
+{{ cookiecutter.description }}
 
 
